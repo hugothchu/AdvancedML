@@ -1,0 +1,2 @@
+model_checkpoint_path: "Task1_GRU_64_results.ckpt"
+all_model_checkpoint_paths: "Task1_GRU_64_results.ckpt"
